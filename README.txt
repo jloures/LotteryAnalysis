@@ -1,4 +1,4 @@
-This program is capable of doing analyses of lottery games, meaning that, given an input file with correct lottery games (matches the type being expected by the computer, and also the one indicated by the user), it will produce a hot and cold list of numbers.
+This program is capable of doing analysis of lottery games, meaning that, given an input file with correct lottery games (matches the type being expected by the computer, and also the one indicated by the user), it will produce a hot and cold list of numbers.
 
 Also it is capable of generating all possible combinations of numbers given certain constraints such as:
 
